@@ -4,7 +4,9 @@
   "description": "Server that displays alpaca data",
   "main": ".mongorc.js",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
+    "jade": "^1.11.0",
     "mongoose": "^5.5.5",
     "pxt-microbit": "^0.13.22"
   },
